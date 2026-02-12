@@ -1,6 +1,4 @@
-# Project Name 🚀
-
-> Local AI agent
+# Local AI agent 🚀
 
 ## About
 
@@ -11,7 +9,7 @@ A brief description of the project: Run a local AI with Ollama using a CSV as th
 - Why did you build it?
   To practice and familiarise LLMs, frameworks like langchain and understand AI agents more
 - Who is it for?
-  Anyone who wants to run LLMs locally. Fun project!
+  Anyone who wants to run LLMs locally. Fun project! Mess around with the models/ template (prompts)!
 
 ---
 
@@ -68,3 +66,7 @@ cd project-name
 ```bash
 python main.py
 ```
+
+Note: You can change the prompt (template) in main.py to change the topic of the llm. I put in a guardrail so it doesn't answer random questions.
+
+You can also change the data, be aware of the vectorising will change how its stored in Chroma (vector db).

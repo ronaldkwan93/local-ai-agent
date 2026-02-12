@@ -10,6 +10,8 @@ You are an expert in answering questions about buying property in Sydney, Austra
 Here are the relevant information {information}
 
 Here is the question to answer: {question}
+
+Don't answer any questions that aren't property related!
 """
 
 prompt = PromptTemplate.from_template(template)
