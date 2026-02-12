@@ -1,0 +1,6 @@
+Address,Type,Bedrooms,Bathrooms,CarSpaces,FloorArea_m2,LastSoldPrice,LastSoldDate,EstimatedValueLower,EstimatedValueUpper
+204/2 Stockyard Boulevard,Unit,2,2,1,76,NA,NA,NA,NA
+105/2 Stockyard Boulevard,Unit,2,2,0,77,817000,2022-02-25,NA,NA
+104/2 Stockyard Boulevard,Unit,2,2,1,NA,817000,2022-02-25,720000,830000
+107/2 Stockyard Boulevard,Unit,2,2,1,NA,785000,2022-04-01,800000,860000
+Median 2BR Unit (Lidcombe),Unit,2,NA,NA,NA,765000,NA,NA,NA
